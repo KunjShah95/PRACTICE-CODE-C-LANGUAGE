@@ -5,7 +5,7 @@ int main(){
     float average;
     printf("Enter the number of elements:");
     scanf("%d",&n);
-    for(int i=0;i<=n;i++){
+    for(int i=0;i<n;i++){
         int num;
         printf("Enter element %d:",i+1);
         scanf("%d",&num);

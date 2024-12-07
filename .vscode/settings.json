@@ -5,5 +5,6 @@
         "Q2.C": "cpp",
         "Q6.C": "cpp",
         "SOLIDRECTANGLE.C": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

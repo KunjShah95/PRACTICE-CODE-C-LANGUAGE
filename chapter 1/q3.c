@@ -10,7 +10,7 @@ int main(){
     printf("\n the area of the square is %d",area);
     printf("\nenter the sides of rectangle:");
     scanf("%d%d",&b,&c);
-    peri = b+c;
+    peri = 2*(b+c);
     area = b*c;
     printf("\n the perimeter of the rectangle is %d",peri);
     printf("\n the area of the rectangle is %d",area);

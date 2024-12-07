@@ -1,8 +1,4 @@
-#include<stdio.h>
-struct students{
-    int rollno;
-    char name[20];
-};
+
 #include <stdio.h>
 
 // Define the struct type for a student
