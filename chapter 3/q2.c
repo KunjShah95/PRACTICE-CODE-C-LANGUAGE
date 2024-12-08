@@ -13,5 +13,5 @@ int main(){
     }
     average = (float)sum/n;
     printf("Average = %f",average);
-     return 0;
+    return 0;
 }
