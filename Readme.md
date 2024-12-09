@@ -1,0 +1,1 @@
+these are the practice questions for c language from where you can practice it 
